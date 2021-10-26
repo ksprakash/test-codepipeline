@@ -109,7 +109,8 @@ C:\Test-Pipeline-Project\WebApplication1\bin\Microsoft.Owin.Security.Twitter.xml
 C:\Test-Pipeline-Project\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 C:\Test-Pipeline-Project\WebApplication1\bin\Microsoft.Owin.Security.OAuth.xml
 C:\Test-Pipeline-Project\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Test-Pipeline-Project\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
-C:\Test-Pipeline-Project\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
-C:\Test-Pipeline-Project\WebApplication1\obj\Debug\WebApplication1.dll
-C:\Test-Pipeline-Project\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Test-Pipeline-Project\WebApplication1\obj\Release\WebApplication1.csproj.AssemblyReference.cache
+C:\Test-Pipeline-Project\WebApplication1\obj\Release\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Test-Pipeline-Project\WebApplication1\obj\Release\WebApplication1.csproj.CopyComplete
+C:\Test-Pipeline-Project\WebApplication1\obj\Release\WebApplication1.dll
+C:\Test-Pipeline-Project\WebApplication1\obj\Release\WebApplication1.pdb
