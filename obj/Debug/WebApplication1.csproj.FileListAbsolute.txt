@@ -113,3 +113,4 @@ C:\Test-Pipeline-Project\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCo
 C:\Test-Pipeline-Project\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
 C:\Test-Pipeline-Project\WebApplication1\obj\Debug\WebApplication1.dll
 C:\Test-Pipeline-Project\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Test-Pipeline-Project\WebApplication1\obj\Debug\WebApplication1.csproj.AssemblyReference.cache
